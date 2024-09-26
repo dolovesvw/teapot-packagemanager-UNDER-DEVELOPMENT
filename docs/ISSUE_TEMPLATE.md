@@ -1,27 +1,27 @@
-## Issue Title
-A brief description of the issue.
+## Issue Template
 
 ### Description
-Explain the problem or request in detail. Include steps to reproduce the issue if it's a bug.
+A clear and concise description of the issue.
 
 ### Steps to Reproduce
+Please list the steps to reproduce the issue.
+
 1. Step one
 2. Step two
-3. ...
+3. Step three
 
 ### Expected Behavior
-Describe what you expected to happen.
+What you expected to happen.
 
 ### Actual Behavior
-Describe what actually happened.
+What actually happened.
 
-### Screenshots or Code (optional)
-If applicable, add screenshots or snippets of the code.
+### Screenshots (Optional)
+If applicable, add screenshots to help explain the issue.
 
 ### Environment
-- Python Version: [e.g., Python 3.9]
-- Operating System: [e.g., Windows 10, macOS Big Sur, Ubuntu 20.04]
-- Project Version: [e.g., 1.0.0]
+- OS: [e.g., Windows, macOS]
+- Version: [e.g., 1.0.0]
 
-### Additional Context (optional)
-Any additional information that might help with resolving the issue.
+### Additional Context (Optional)
+Any other information that may help with this issue.
