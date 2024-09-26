@@ -18,5 +18,5 @@
 
 ## Reporting a Vulnerability
 
-Please report any security vulnerabilities via email to [your.email@example.com]. 
+Please report any security vulnerabilities via email to [teapot.mail@gmail.com]. 
 We will do our best to address the issue as soon as possible.
