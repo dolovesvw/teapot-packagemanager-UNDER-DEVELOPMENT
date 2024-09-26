@@ -37,8 +37,8 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.x.x   | :white_check_mark:          |
-| < 1.0   |              |
+| 1.x.x   | :x:                |
+| < 1.0   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
