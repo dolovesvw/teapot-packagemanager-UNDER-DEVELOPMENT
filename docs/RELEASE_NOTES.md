@@ -1,5 +1,5 @@
 # Release Notes
-
+```markdown
 ## Version 1.0.0
 
 ### Features
@@ -30,3 +30,4 @@
 
 - Major refactor of the codebase for improved performance.
 - New user interface for package management.
+```
