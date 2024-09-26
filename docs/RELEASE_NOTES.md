@@ -37,8 +37,8 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.x.x   | | ❌ |             |
-| < 1.0   | | ✔️ |             |
+| 1.x.x   | x            |
+| < 1.0   |              |
 
 ## Reporting a Vulnerability
 
