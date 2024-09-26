@@ -1,0 +1,57 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Ignore log files
+*.log
+
+# Ignore environment variables
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+*.log
+*.pot
+*.pyo
+env/
+venv/
+ENV/
+build/
+pip-wheel-metadata/
+
+# Test coverage files
+.coverage
+.tox/
+.nox/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Pytest
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
