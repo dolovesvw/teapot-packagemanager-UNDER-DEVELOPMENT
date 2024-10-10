@@ -1,5 +1,7 @@
 
 # Teapot Package Manager
+# Build Status
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 ## Overview
 Teapot is a Windows package manager inspired by [Homebrew](https://github.com/Homebrew/brew), designed to simplify software installation and management for Windows users. Teapot supports automatic conversion of Homebrew packages to Windows-compatible versions, offering a unified command-line experience. It brings powerful dependency resolution and cross-platform support without the need for additional subsystems.
 
